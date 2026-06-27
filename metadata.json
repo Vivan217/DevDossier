@@ -1,0 +1,6 @@
+{
+  "name": "DevDossier",
+  "description": "A developer portfolio generator that connects to GitHub and publishes personalized profile sites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
